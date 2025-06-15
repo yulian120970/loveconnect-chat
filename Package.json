@@ -1,0 +1,11 @@
+{
+  "name": "loveconnect-chat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
